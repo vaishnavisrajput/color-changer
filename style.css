@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.canvas{
+    text-align: center;
+    justify-content: center;
+}
+.heading{
+    margin-top: 30px;
+}
+.canvas .button{
+    margin: 10px 5px;
+    padding: 30px 50px;
+    border: 1px solid black;
+}
+.tile{
+    margin-top: 60px;
+}
+.tile h2{
+    margin-top: 50px;
+}
+
+#grey{
+    background-color: rgb(94, 93, 93);
+}
+#yellow{
+    background-color: rgb(252, 252, 81);
+}
+#blue{
+    background-color: rgb(8, 8, 130);
+}
+#red{
+    background-color: red;
+}
+#pink{
+    background-color: rgb(215, 97, 117);
+}
+#purple{
+    background-color: purple;
+}
+#orange{
+    background-color: orange;
+}
+#green{
+    background-color: green;
+}
